@@ -6,7 +6,7 @@
 				<p><a href="https://www.mageants.com/pdf-invoice-extension-for-magento-2.html">Magento 2 PDF invoice</a> is a customized tool that helps generate an invoice, pdf, and other forms of documents for the customer in an easy way within the short timeline.</p>
 				
 <div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Print and add multiple PDFs invoice simultaneously</li>
 						<li>Powerful and user-friendly PDF invoice tool that lets you create a custom order, invoice, shipment, credit memo, and PDF documents.</li>
